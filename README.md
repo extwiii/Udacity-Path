@@ -5,12 +5,15 @@ My Udacity Path
 
 * Project : Finding Lane Lines
 
-* [MW - ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356)
-  * Professional developer-fu
-  * Built-ins
-  * Functions
+* [MW - ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356) [ 25-11-17 ]
   * Syntax
-* [MW - Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899)
-  * IndexedDB and Caching
-  * Introducing the Service Worker
+  * Functions
+  * Built-ins
+  * Professional developer-fu
+
+* [MW - Offline Web Applications](https://eu.udacity.com/course/offline-web-applications--ud899) [ 15-11-17 ]
   * The Benefits of Offline First
+  * Introducing the Service Worker
+  * IndexedDB and Caching
+  
+  
