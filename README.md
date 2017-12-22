@@ -11,7 +11,7 @@ My Udacity Path
   * Anaconda and Jupyter Notebooks
     * Anaconda
     * Jupyter Notebooks
-  * Writing READMEs [ 22-12-17 ]
+  * [Writing READMEs](https://eu.udacity.com/course/linux-command-line-basics--ud595) [ 22-12-17 ]
     
 
 * [MW - ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356) [ 25-11-17 ]
