@@ -11,6 +11,7 @@ My Udacity Path
   * Anaconda and Jupyter Notebooks
     * Anaconda
     * Jupyter Notebooks
+  * Writing READMEs
     
 
 * [MW - ES6 - JavaScript Improved](https://eu.udacity.com/course/es6-javascript-improved--ud356) [ 25-11-17 ]
