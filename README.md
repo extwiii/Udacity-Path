@@ -8,7 +8,7 @@ My Udacity Path
 
 * [SDC - Part 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
   * Project : Finding Lane Lines [[Lane Lines](https://github.com/udacity/CarND-LaneLines-P1)]
-  * Anaconda and Jupyter Notebooks
+  * Anaconda and Jupyter Notebooks [ 23-12-17 ]
     * Anaconda
     * Jupyter Notebooks
   * [Writing READMEs](https://eu.udacity.com/course/linux-command-line-basics--ud595) [ 22-12-17 ]
