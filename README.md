@@ -8,7 +8,7 @@ My Udacity Path
 
 * [SDC - Part 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
 
-  * Introduction to Neural Networks
+  * Introduction to Neural Networks [ 9-1-18 ]
   * Career Services Available to You [ 3-1-18 ]
   * Project : Finding Lane Lines [[Lane Lines](https://github.com/extwiii/CarND-LaneLines-P1/tree/master)] [ 3-1-18 ]
   * Anaconda and Jupyter Notebooks [ 23-12-17 ]
