@@ -3,11 +3,13 @@ My Udacity Path
 
 ### MW: Google Developer Challenge Scholarship: Mobile Web
 ### [SDC: Self-Driving Car Engineer](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) - [Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-SelfDrivingCarNanodegree.pdf)
+### EXT: External Resources
 
 ## Path
 
 * [SDC - Part 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
   
+  * [EXT - TensorFlow Getting Started [ 11-1-18 ]](https://www.tensorflow.org/get_started/)
   * MiniFlow [ 10-1-18 ]
   * Introduction to Neural Networks [ 9-1-18 ]
   * Career Services Available to You [ 3-1-18 ]
