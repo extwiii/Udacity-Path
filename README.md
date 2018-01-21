@@ -8,8 +8,9 @@ My Udacity Path
 ## Path
 
 * [SDC - Part 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
-  * Deep Neural Networks [ 14-1-18 ]
+  * Convolutional Neural Networks [ 18-1-18 ]
     * [Github - LeNet](https://github.com/udacity/CarND-LeNet-Lab)
+  * Deep Neural Networks [ 14-1-18 ]
   * Introduction to TensorFlow [ 12-1-18 ]
   * [EXT - TensorFlow Getting Started](https://www.tensorflow.org/get_started/) [ 11-1-18 ]
   * MiniFlow [ 10-1-18 ]
