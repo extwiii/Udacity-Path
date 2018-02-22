@@ -8,6 +8,7 @@ My Udacity Path
 ## Path
 
 * [SDC - Part 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
+  * Transfer Learning
   * Keras [ 10-2-18 ]
   * Project: Traffic Sign Classifier Project  [[Traffic Signs](https://github.com/extwiii/CarND-Traffic-Sign-Classifier-Project)] [ 8-2-18 ]
   * [Deep Learning](https://eu.udacity.com/course/deep-learning--ud730) [ 1-2-18]
