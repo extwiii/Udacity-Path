@@ -8,6 +8,7 @@ My Udacity Path
 ## Path
 
 * [SDC - Part 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
+  * Object Detection
   * Decision Trees [ 10-3-18 ]
   * Support Vector Machines [ 8-3-18 ]
   * Machine Learning and Stanley [ 6-3-18 ]
