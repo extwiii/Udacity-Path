@@ -3,7 +3,7 @@
 ## [Syllabus](https://s3-us-west-1.amazonaws.com/udacity-content/PDFs/Syllabus-SelfDrivingCarNanodegree.pdf)
 
 ### [Term 1 - Computer Vision and Deep Learning](https://eu.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) [[Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)]
-### Project: Vehicle Detection and Tracking Project [Vehicle Detection and Tracking] [3-18]
+### Project: Vehicle Detection and Tracking Project [Vehicle Detection and Tracking] [3-18 ]
 * Object Detection [ 12-3-18 ]
 * Decision Trees [ 10-3-18 ]
 * Support Vector Machines [ 8-3-18 ]
